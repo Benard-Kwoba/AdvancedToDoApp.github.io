@@ -7,7 +7,7 @@ It is designed to enhance productivity by integrating essential and advanced fun
 It is also designed to demonstrate key introductory concepts of Graphical User Interface with Python.
 
 KEY FEATURES
-Task Management
+ - Task Management
  - Shift Scheduler: Easily schedule and manage shifts, ensuring all tasks are allocated appropriately.
  - Recycle Bin: Soft delete tasks and restore them from the recycle bin if needed, providing an additional layer of safety.
  - Live Time Display: Stay on top of your tasks with a live time display to help you manage your schedule better.
